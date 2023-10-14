@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/jordin_dibbs/static/css/main.68c98e7b.css",
-    "main.js": "/jordin_dibbs/static/js/main.953f8de5.js",
-    "static/js/787.5b31d9fa.chunk.js": "/jordin_dibbs/static/js/787.5b31d9fa.chunk.js",
+    "main.css": "/jordin_dibbs/static/css/main.a783dceb.css",
+    "main.js": "/jordin_dibbs/static/js/main.8f09d77f.js",
     "static/media/Pic.png": "/jordin_dibbs/static/media/Pic.f43c2b380bb217a6e581.png",
     "static/media/dibbs_gaming.png": "/jordin_dibbs/static/media/dibbs_gaming.f7d58dd661d226189394.png",
     "static/media/Tracker.png": "/jordin_dibbs/static/media/Tracker.c6ed1237fb3637336138.png",
@@ -12,12 +11,11 @@
     "static/media/technical-support.png": "/jordin_dibbs/static/media/technical-support.6a092232f30bfcd589af.png",
     "static/media/Full-Stack.png": "/jordin_dibbs/static/media/Full-Stack.924aefcd21dab990e435.png",
     "index.html": "/jordin_dibbs/index.html",
-    "main.68c98e7b.css.map": "/jordin_dibbs/static/css/main.68c98e7b.css.map",
-    "main.953f8de5.js.map": "/jordin_dibbs/static/js/main.953f8de5.js.map",
-    "787.5b31d9fa.chunk.js.map": "/jordin_dibbs/static/js/787.5b31d9fa.chunk.js.map"
+    "main.a783dceb.css.map": "/jordin_dibbs/static/css/main.a783dceb.css.map",
+    "main.8f09d77f.js.map": "/jordin_dibbs/static/js/main.8f09d77f.js.map"
   },
   "entrypoints": [
-    "static/css/main.68c98e7b.css",
-    "static/js/main.953f8de5.js"
+    "static/css/main.a783dceb.css",
+    "static/js/main.8f09d77f.js"
   ]
 }
