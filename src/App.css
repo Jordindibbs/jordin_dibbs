@@ -431,7 +431,7 @@ h3 {
 }
 /* Responsive Screens */
 @media only screen and (max-width: 1800px) {
-  .hero--section--title {
+  .home--section--title {
     font-size: 68px;
     line-height: 70px;
   }
@@ -469,13 +469,13 @@ h3 {
   .btn-outline-primary {
     display: none;
   }
-  .hero--section {
+  .home--section {
     display: flex;
     flex-direction: column-reverse;
     padding-bottom: 70px;
   }
-  .hero--section--title,
-  .hero--section-description,
+  .home--section--title,
+  .home--section-description,
   .footer--content {
     text-align: center;
   }
@@ -491,8 +491,8 @@ h3 {
   }
   .skills--section,
   .portfolio--container,
-  .hero--section--content,
-  .hero--section--content--box {
+  .home--section--content,
+  .home--section--content--box {
     align-items: center;
   }
   .portfolio--container-box {
@@ -514,13 +514,13 @@ h3 {
   .testimonial--section--card {
     padding: 25px;
   }
-  .hero--section--title,
+  .home--section--title,
   .skills--section--heading,
   .sections--heading {
     font-size: 35px;
     line-height: 40px;
   }
-  .hero--section--content--box {
+  .home--section--content--box {
     gap: 10px;
   }
   .contact--form--container {

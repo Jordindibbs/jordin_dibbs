@@ -1,12 +1,13 @@
 import { Link } from "react-scroll";
 import React from "react";
+import Logo from "../Assets/Logo.png";
 
 function Footer() {
   return (
     <footer className="footer--container">
       <div className="footer--link--container">
         <div>
-          <img src="./img/logo.svg" alt="Jordin-Dibbs" />
+          <img src={Logo} alt="Jordin-Dibbs" />
         </div>
         <div className="footer--items">
           <ul>
