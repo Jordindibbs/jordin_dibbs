@@ -8,7 +8,7 @@ export default function MyPortfolio() {
       <div className="portfolio--container-box">
         <div className="portfolio--container">
           <div className="portfolio--container">
-            <h2 className="skills--section--heading">My Portfolio</h2>
+            <h2 className="skills--section--heading">Portfolio</h2>
           </div>
         </div>
         <div>

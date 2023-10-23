@@ -4,7 +4,7 @@ export default function HomeSection() {
     <section id="HomeSection" className="home--section">
       <div className="home--section--content--box">
         <div className="home--section--content">
-          <p className="section--title">Hey, I'm Jordin</p>
+          <p className="section--title">Jordin Dibbs</p>
           <h1 className="home--section--title">
             <span className="home--section-title--color">Full Stack</span>
             {""}

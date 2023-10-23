@@ -232,6 +232,7 @@ h3 {
   width: 100%;
   height: 100%;
   border-radius: 50%;
+  max-width: 500px;
 }
 /* Skills Section */
 .skills--section {
